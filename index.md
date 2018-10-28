@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages!!!
+## Meet Form.X
 
-You can use the [editor on GitHub](https://github.com/patrickryan79/dnnstore.formx/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Form.X is a powerful control that allows you to embed forms within XMod Pro templates. This allows you to add and edit data without a page refresh, create contact forms and more!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Watch the short video clips below for some examples!
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact Form
+
+
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/296045754?loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ```markdown
 Syntax highlighted code block
