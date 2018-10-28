@@ -23,7 +23,7 @@
 <body>
 
 <header class="page-header" role="banner">
-    <img src="{{ '/assets/img/logo.png' }}" />
+    <img src="{{ '/assets/img/logo.png?v=' | append: site.github.build_revision | relative_url }}" />
     <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
     {% if site.github.is_project_page %}
     <a href="{{ site.docs_url }}" class="btn">View the Docs</a>
