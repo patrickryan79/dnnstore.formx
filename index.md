@@ -33,7 +33,7 @@ be found in the documentation: <a href="https://formxdocs.reflectmediagroup.com"
 
 ### Prerequisites
 
-- DNN 7+
+- DNN 7.2+
 - .NET 4+
 - XMod Pro 4.7.3+
 
