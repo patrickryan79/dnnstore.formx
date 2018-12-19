@@ -6,7 +6,7 @@ Watch the short video clips below for some examples, and also <a href="https://f
 
 New to XMod Pro? Be sure to watch our <a href="https://discoverxmodpro.com" target="_blank">introduction video</a>.
 
-## New in v1.3.0
+## New in <a href="https://store.dnnsoftware.com/home/product-details/formx-for-xmod-pro-v130/r/02a046e294934ad2809c">v1.3.0</a>##
 
 - Reactive experimental property added to several controls that when used in conjunction with the `<Panel>` tag can dynamically show and hide fields, including their validation. See Reactivity for details. This feature may undergo implementation changes so be sure to check the release notes for any potential breaking changes in future updates.
 - PerformAction property added to all form actions, which can evaluate a simple expression to determine whether or not the action will execute.
