@@ -6,7 +6,18 @@ Watch the short video clips below for some examples, and also <a href="https://f
 
 New to XMod Pro? Be sure to watch our <a href="https://discoverxmodpro.com" target="_blank">introduction video</a>.
 
-For free upgrades, please contact support@reflectmediagroup.com with your invoice number.
+## New in v1.3.0
+
+- Reactive experimental property added to several controls that when used in conjunction with the `<Panel>` tag can dynamically show and hide fields, including their validation. See Reactivity for details. This feature may undergo implementation changes so be sure to check the release notes for any potential breaking changes in future updates.
+- PerformAction property added to all form actions, which can evaluate a simple expression to determine whether or not the action will execute.
+- Event property added to all form actions. You can now set the action to execute before or after (default) the `<SubmitCommand>`. A great example of this is found in the `<AddUser>` action documentation.
+- `<SilentPost>` form action added
+- `<SqlCommand>` form action added
+- `<Twilio>` form action added (Send SMS messages)
+- `<UpdateUser>` form action now allows you to change a user's password without requiring their old password. This is useful for administrators.
+- New recipes!
+
+**For free upgrades, please contact support@reflectmediagroup.com with your invoice number.**
 
 ### Contact Form
 
