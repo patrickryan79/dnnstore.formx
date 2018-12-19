@@ -6,6 +6,8 @@ Watch the short video clips below for some examples, and also <a href="https://f
 
 New to XMod Pro? Be sure to watch our <a href="https://discoverxmodpro.com" target="_blank">introduction video</a>.
 
+For free upgrades, please contact support@reflectmediagroup.com with your invoice number.
+
 ### Contact Form
 
 <div style="padding:56.25% 0 0 0;position:relative;border: 1px solid #ccc;"><iframe src="https://player.vimeo.com/video/297567919?loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
