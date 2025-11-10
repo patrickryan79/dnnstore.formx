@@ -6,6 +6,8 @@ Watch the short video clips below for some examples, and also <a href="https://f
 
 New to XMod Pro? Be sure to watch our <a href="https://discoverxmodpro.com" target="_blank">introduction video</a>.
 
+## New in v1.4.0: Added compatibility with DNN 10
+
 ## New in <a target="_parent" href="https://store.dnnsoftware.com/home/product-details/formx-for-xmod-pro-v130/r/02a046e294934ad2809c">v1.3.0</a>
 
 - Reactive experimental property added to several controls that when used in conjunction with the `<Panel>` tag can dynamically show and hide fields, including their validation. See Reactivity for details. This feature may undergo implementation changes so be sure to check the release notes for any potential breaking changes in future updates.
@@ -46,8 +48,8 @@ be found in the documentation: <a href="https://formxdocs.reflectmediagroup.com"
 
 ### Prerequisites
 
-- DNN 7.2+
-- .NET 4+
+- DNN 9.2+
+- .NET 4.7.2+
 - XMod Pro 4.7.3+
 
 
