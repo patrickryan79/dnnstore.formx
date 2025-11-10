@@ -62,4 +62,4 @@ be found in the documentation: <a href="https://formxdocs.reflectmediagroup.com"
 | DNN Installations | 1 | 3 | 5 |
 | Major & Minor Upgrades | 1 Year | 1 Year | 1 Year |
 | Free Support | 3 Months | 3 Months | 3 Months |
-|| $99 | $249 | $349 |
+|| $129 | $299 | $499 |
